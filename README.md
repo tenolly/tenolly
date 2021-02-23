@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Nikita 👋
 
 <h3>My statistics</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Good5263" alt="Good5263"/> </p>-->
