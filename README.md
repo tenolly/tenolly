@@ -1,5 +1,6 @@
-<h3 align="left">Hi, i'm Nikita 👋<h3>  
-<p align="left">Python | JavaScript | Frontend Developer</p>
+<h3 align="left">Hi, i'm Nikita 👋</h3>  
+<p>Python | JavaScript | Frontend Developer</p>
+  
 <h4 align="center">Developer</h4> 
 <h3>My statistics</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Good5263" alt="Good5263"/> </p>-->
