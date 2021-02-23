@@ -1,8 +1,7 @@
 ### Hi there 👋</h2>  
 
 - :telescope: I’m currently working on.. nothing?
-- :seedling: I’m currently learning JavaScript
-- :speech_balloon: Ask me about ...
+- :seedling: I’m currently learning JavaScript and Python
 - :mailbox: How to reach me: Good5263 (discord)
 - :zap: Fun fact: this not fun fact
   
