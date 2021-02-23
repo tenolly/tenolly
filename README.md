@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Nikita 👋</h1>  
+<h1 align="center">Hi, i'm Nikita</h1>  
 <h3 align="center">Python and JavaScript Developer</h3> 
 <h3>My statistics</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Good5263" alt="Good5263"/> </p>-->
