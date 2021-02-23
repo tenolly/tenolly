@@ -1,4 +1,5 @@
 ### Hi, i'm Nikita 👋
+<p style="color: rgb(255, 0, 0)">lalala</p>
 
 <h3>My statistics</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Good5263" alt="Good5263"/> </p>-->
