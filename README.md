@@ -1,12 +1,11 @@
 ### Hi there 👋</h2>  
 
-- :telescope: I’m currently working on ...
-- :seedling: I’m currently learning ...
+- :telescope: I’m currently working on.. nothing?
+- :seedling: I’m currently learning JavaScript
 - :speech_balloon: Ask me about ...
-- :mailbox: How to reach me: ...
-- :zap: Fun fact: ...
+- :mailbox: How to reach me: Good5263 (discord)
+- :zap: Fun fact: this not fun fact
   
-<h4 align="center">Developer</h4> 
 <h3>My statistics</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Good5263" alt="Good5263"/> </p>-->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Good5263&show_icons=true&theme=tokyonight" alt="Good5263"/></p>
