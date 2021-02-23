@@ -1,4 +1,4 @@
-<h3>Hi there, i'm Nikita 👋</h3>
+<h3><strong>Hi there, i'm Nikita 👋</strong></h3>
 
 - :telescope: I’m currently working on.. nothing?
 - :seedling: I’m currently learning JavaScript and Python
