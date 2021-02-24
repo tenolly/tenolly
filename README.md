@@ -1,6 +1,6 @@
 ### Hi there, i'm Nikita 👋
 
-- :telescope: I’m currently working on.. nothing?
+- :telescope: I’m currently working on [url-shortener](https://github.com/Good5263/url-shortener) <!--.. nothing?-->
 - :seedling: I’m currently learning JavaScript and Python
 - :mailbox: How to reach me: G[o_o]d#5263 (discord)
 - :zap: Fun fact: this not fun fact
