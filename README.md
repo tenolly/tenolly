@@ -1,7 +1,7 @@
 ### Hi there, i'm Nikita 👋
 
-- :telescope: I’m currently working on refactoring projects<!--.. nothing? [url-shortener](https://github.com/Good5263/url-shortener)-->
-- :seedling: I’m currently learning JavaScript and Python
+- :telescope: I’m currently working on.. nothing?
+- :seedling: I’m currently learning Python and Rust
 - :mailbox: How to reach me: G[o_o]d#5263 (discord)
 - :zap: Fun fact: this not fun fact
   
