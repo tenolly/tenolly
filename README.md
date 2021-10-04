@@ -1,7 +1,7 @@
 ### Hi there, i'm Nikita 👋
 
 - :telescope: I’m currently working on.. nothing?
-- :seedling: I’m currently learning <s>Rust</s> math
+- :seedling: I’m currently learning С
 - :mailbox: How to reach me: G[o_o]d#5263 (discord)
 - :zap: Fun fact: this not fun fact
   
