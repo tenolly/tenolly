@@ -2,7 +2,7 @@
 
 - :telescope: I’m currently working on.. nothing?
 - :seedling: I’m currently learning С
-- :mailbox: How to reach me: tenoly.#5263 (discord)
+- :mailbox: How to reach me: tenoly#5263 (discord)
 - :zap: Fun fact: this not fun fact
   
 ### My statistics
