@@ -6,8 +6,8 @@
 - :zap: Fun fact: this not fun fact
   
 ### My statistics
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Good5263&show_icons=true&theme=tokyonight" alt="Good5263"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tenolly&show_icons=true&theme=tokyonight" alt="Good5263"/></p>
 <!--radical, merko, tokyonight-->
 
 ### Languages
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Good5263&layout=compact&theme=tokyonight" alt="Good5263"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenolly&layout=compact&theme=tokyonight" alt="Good5263"/></p>
