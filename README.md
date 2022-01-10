@@ -3,7 +3,7 @@
 - :telescope: I’m currently working on.. nothing?
 - :seedling: I’m currently learning С
 - :mailbox: How to reach me: tenoly#5263 (discord)
-- :zap: Fun fact: this not fun fact
+- :zap: Fun fact: it isn't fun fact
   
 ### My statistics
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=tenolly&show_icons=true&theme=tokyonight" alt="Good5263"/></p>
