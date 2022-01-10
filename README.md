@@ -11,3 +11,5 @@
 
 ### Languages
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenolly&layout=compact&theme=tokyonight" alt="tenolly"/></p>
+
+[<img src="https://www.codewars.com/users/tenolly/badges/large">](https://www.codewars.com/users/tenolly)
