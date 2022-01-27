@@ -1,7 +1,7 @@
 ### Hi there, i'm Nikita 👋
 
-- :telescope: I’m currently working on.. nothing?
-- :seedling: I’m currently learning С
+- :telescope: I’m currently working nothing
+- :seedling: I’m currently learning nothing
 - :mailbox: How to reach me: tenoly#5263 (discord)
 - :zap: Fun fact: it isn't fun fact
   
