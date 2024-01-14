@@ -1,6 +1,6 @@
 <h2>Hey, I'm Nikita 👋</h2>
 I'm python developer and java beginner.<br>
-I'm currently styding at ITMO University, Faculty of Software Engineering.
+I'm currently studying at ITMO University, Faculty of Software Engineering.
 <h2>My statistics and most used languages</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/>
